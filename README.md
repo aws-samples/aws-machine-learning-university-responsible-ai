@@ -1,4 +1,4 @@
-![logo](https://drive.corp.amazon.com/view/bwernes@/MLU_Logo.png?download=true)
+![logo](data/MLU-Logo.png)
 ## Machine Learning University: Responsible AI
 
 This repository contains __slides__, __notebooks__, and __data__ for the __Machine Learning University (MLU) Responsible AI__ class. Our mission is to make Machine Learning accessible to everyone. We have courses available across many topics of machine learning and believe knowledge of ML can be a key enabler for success. This class is designed to help you get started with Responsible AI, learn about widely used Machine Learning techniques, and apply them to real-world problems.
