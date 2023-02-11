@@ -1,4 +1,4 @@
-![logo](https://drive.corp.amazon.com/view/bwernes@/MLU_Logo.png?download=true)
+![logo](data/MLU-Logo.png)
 ## Machine Learning University: Responsible AI
 
 This repository contains __slides__, __notebooks__, and __data__ for the __Machine Learning University (MLU) Responsible AI__ class. Our mission is to make Machine Learning accessible to everyone. We have courses available across many topics of machine learning and believe knowledge of ML can be a key enabler for success. This class is designed to help you get started with Responsible AI, learn about widely used Machine Learning techniques, and apply them to real-world problems.
@@ -8,6 +8,16 @@ Watch all Responsible AI video recordings in this [YouTube playlist](https://www
 
 ## Course Overview
 There are three lectures and one final project for this class.
+
+[![Playlist](https://img.youtube.com/vi/_6CFi2CO2AI/0.jpg)](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuU4knhhCouJujFZ2tTqU-Ta)
+
+## Course Overview
+There are three lectures and one final project for this class.
+
+Lecture 1
+| title | studio lab |
+| :---: | ---: |
+| Exploratory Data Analysis| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_1/MLA-RESML-EDA.ipynb)|
 
 __Final Project:__ Practice working with a "real-world" dataset for the final project. Final project dataset is in the [data/final_project folder](https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/tree/master/data/final_project). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/blob/main/notebooks/day_1/MLA-RESML-DAY1-FINAL-STUDENT-NB.ipynb).
 
