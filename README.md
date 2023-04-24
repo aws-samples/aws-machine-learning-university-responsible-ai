@@ -26,11 +26,10 @@ __Lecture 2__
 | Completed Final Challenge Day 2| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-DAY2-FINAL-STUDENT-NB-SOLUTION.ipynb)|
 
 
-
 __Final Project:__ Practice working with a "real-world" dataset for the final project. Final project dataset is in the [data/final_project folder](https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/tree/master/data/final_project). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/blob/main/notebooks/day_1/MLA-RESML-DAY1-FINAL-STUDENT-NB.ipynb).
 
 ## Interactives/Visuals
-Interested in visual, interactive explanations of core machine learning concepts? Check out our [MLU-Explain articles](https://mlu-explain.github.io/) to learn at your own pace! 
+Interested in visual, interactive explanations of core machine learning concepts? Check out our [MLU-Explain articles](https://mlu-explain.github.io/) to learn at your own pace! Relevant for this class is this article on [Equality of Odds](https://mlu-explain.github.io/equality-of-odds/).
 
 ## Contribute
 If you would like to contribute to the project, see [CONTRIBUTING](CONTRIBUTING.md) for more information.
