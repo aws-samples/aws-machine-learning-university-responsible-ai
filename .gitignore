@@ -1,1 +1,4 @@
-notebooks/day_1/.ipynb_checkpoints/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*/mnist_data/*
+
