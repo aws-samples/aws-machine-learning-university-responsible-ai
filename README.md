@@ -10,14 +10,14 @@ Watch all Responsible AI video recordings in this [YouTube playlist](https://www
 There are three lectures and one final project for this class.
 
 __Lecture 1__
-| title | studio lab |
+| Title | Studio lab |
 | :---: | ---: |
 | Exploratory Data Analysis| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_1/MLA-RESML-EDA.ipynb)|
 | Final Challenge Day 1| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_1/MLA-RESML-DAY1-FINAL-STUDENT-NB.ipynb)|
 | Completed Final Challenge Day 1| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_1/MLA-RESML-DAY1-FINAL-STUDENT-NB-SOLUTION.ipynb)|
 
 __Lecture 2__
-| title | studio lab |
+| Title | Studio lab |
 | :---: | ---: |
 | Data Preparation| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-DATAPREP.ipynb)|
 | Disparate Impact| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-DI.ipynb)|
