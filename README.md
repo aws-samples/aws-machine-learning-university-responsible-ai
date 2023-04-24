@@ -9,10 +9,22 @@ Watch all Responsible AI video recordings in this [YouTube playlist](https://www
 ## Course Overview
 There are three lectures and one final project for this class.
 
-Lecture 1
+__Lecture 1__
 | title | studio lab |
 | :---: | ---: |
 | Exploratory Data Analysis| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_1/MLA-RESML-EDA.ipynb)|
+| Final Challenge Day 1| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_1/MLA-RESML-DAY1-FINAL-STUDENT-NB.ipynb)|
+| Completed Final Challenge Day 1| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_1/MLA-RESML-DAY1-FINAL-STUDENT-NB-SOLUTION.ipynb)|
+
+__Lecture 2__
+| title | studio lab |
+| :---: | ---: |
+| Data Preparation| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-DATAPREP.ipynb)|
+| Disparate Impact| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-DI.ipynb)|
+| Logistic Regression| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-LOGREG.ipynb)|
+| Final Challenge Day 2| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-DAY2-FINAL-STUDENT-NB.ipynb)|
+| Completed Final Challenge Day 2| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-DAY2-FINAL-STUDENT-NB-SOLUTION.ipynb)|
+
 
 
 __Final Project:__ Practice working with a "real-world" dataset for the final project. Final project dataset is in the [data/final_project folder](https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/tree/master/data/final_project). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/blob/main/notebooks/day_1/MLA-RESML-DAY1-FINAL-STUDENT-NB.ipynb).
