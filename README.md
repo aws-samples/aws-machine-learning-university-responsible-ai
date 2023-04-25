@@ -25,6 +25,15 @@ __Lecture 2__
 | Final Challenge Day 2| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-DAY2-FINAL-STUDENT-NB.ipynb)|
 | Completed Final Challenge Day 2| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-DAY2-FINAL-STUDENT-NB-SOLUTION.ipynb)|
 
+__Lecture 3__
+| Title | Studio lab |
+| :---: | ---: |
+| Equalized Odds| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-ODDS.ipynb)|
+| SHAP| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-SHAP.ipynb)|
+| Clarify and Model Monitor| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-CLARIFY-MONITOR.ipynb)|
+| Final Challenge Day 3| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-DAY3-FINAL-STUDENT-NB.ipynb)|
+| Completed Final Challenge Day 3| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-DAY3-FINAL-STUDENT-NB-SOLUTION.ipynb)|
+
 
 __Final Project:__ Practice working with a "real-world" dataset for the final project. Final project dataset is in the [data/final_project folder](https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/tree/master/data/final_project). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-responsible-ai/blob/main/notebooks/day_1/MLA-RESML-DAY1-FINAL-STUDENT-NB.ipynb).
 
