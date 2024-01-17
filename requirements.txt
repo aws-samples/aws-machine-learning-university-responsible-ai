@@ -18,6 +18,6 @@ scipy==1.7.2
 seaborn==0.11.2
 shap==0.41.0
 tempeh==0.1.12
-transformers==4.27.3
+transformers==4.36.0
 tensorflow==2.12.0
 tensorboard==2.12.0
