@@ -30,7 +30,6 @@ __Lecture 3__
 | :---: | ---: |
 | Equalized Odds| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-ODDS.ipynb)|
 | SHAP| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-SHAP.ipynb)|
-| Clarify and Model Monitor| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-CLARIFY-MONITOR.ipynb)|
 | Final Challenge Day 3| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-DAY3-FINAL-STUDENT-NB.ipynb)|
 | Completed Final Challenge Day 3| [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-responsible-ai/blob/master/notebooks/day_2/MLA-RESML-DAY3-FINAL-STUDENT-NB-SOLUTION.ipynb)|
 
