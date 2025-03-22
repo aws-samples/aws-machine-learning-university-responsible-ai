@@ -63,7 +63,7 @@ requests==2.32.3
 rich==13.8.1
 rpds-py==0.20.0
 s3transfer==0.10.2
-sagemaker==2.232.1
+sagemaker==2.237.3
 sagemaker-core==1.0.7
 schema==0.7.7
 scikit-learn==1.5.2
