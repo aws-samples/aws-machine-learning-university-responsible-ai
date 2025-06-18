@@ -78,5 +78,5 @@ threadpoolctl==3.5.0
 tomli==2.0.1
 tqdm==4.66.5
 tzdata==2024.2
-urllib3==1.26.20
+urllib3==2.5.0
 widgetsnbextension==4.0.13
