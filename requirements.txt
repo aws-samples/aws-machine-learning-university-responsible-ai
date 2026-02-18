@@ -30,7 +30,7 @@ joblib==1.4.2
 jsonschema==4.23.0
 jsonschema-specifications==2023.12.1
 jupyterlab_widgets==3.0.13
-keras==3.5.0
+keras==3.13.2
 kiwisolver==1.4.7
 llvmlite==0.43.0
 markdown-it-py==3.0.0
