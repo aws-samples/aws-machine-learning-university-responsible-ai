@@ -73,7 +73,6 @@ shap==0.46.0
 slicer==0.0.8
 smdebug-rulesconfig==1.0.1
 tblib==3.0.0
-tempeh==0.1.12
 threadpoolctl==3.5.0
 tomli==2.0.1
 tqdm==4.66.5
