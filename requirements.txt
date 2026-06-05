@@ -15,7 +15,7 @@ docker==7.1.0
 fairlearn==0.10.0
 filelock==3.16.1
 folktables==0.0.12
-fonttools==4.54.1
+fonttools==4.61.0
 fsspec==2024.9.0
 google-pasta==0.2.0
 h5py==3.11.0
